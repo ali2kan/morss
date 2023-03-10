@@ -13,7 +13,7 @@
 	<xsl:template match="/">
 		<html>
 		<head>
-			<title>RSS feed by morss</title>
+			<title>SIRA - RSS feeds</title>
 			<meta name="viewport" content="width=device-width; initial-scale=1.0;" />
 			<meta name="robots" content="noindex" />
 			<link rel="shortcut icon" type="image/svg+xml" href="/logo.svg" sizes="any" />
@@ -167,7 +167,7 @@
 
 		<body>
 			<header>
-				<h1>RSS feed by morss</h1>
+				<h1>RSS feed by SIRA</h1>
 
 				<p>Your RSS feed is <strong style="color: green">ready</strong>. You
 				can enter the following url in your newsreader:</p>
