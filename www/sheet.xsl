@@ -218,7 +218,7 @@
 				</form>
 
 				<p>You can find a <em>preview</em> of the feed below. You need a <em>feed reader</em> for optimal use</p>
-				<p>Click <a href="/">here</a> to go back to morss and/or to use the tool on another feed</p>
+				<p>Click <a href="/">here</a> to go back and/or to use the tool on another feed</p>
 			</header>
 
 			<div id="header" dir="auto">
